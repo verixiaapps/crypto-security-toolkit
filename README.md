@@ -65,6 +65,7 @@ It is a practical starting point for building a stronger crypto infrastructure.
 - [⚡ PROFITSKY — TradingView indicator Analyzer](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/profitsky.md)
 - [Endpoint Security](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/endpoint-security.md)
 - [Extra Resources](https://github.com/Odessacool1/crypto-security-toolkit/blob/main/resources.md)
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 8 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 ---
 
